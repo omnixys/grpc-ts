@@ -3,6 +3,16 @@
 All notable changes in this project will be documented in this file.
 
 
+## [1.1.1](https://github.com/omnixys/grpc-ts/compare/v1.1.0...v1.1.1) (2026-08-24)
+
+### Agent
+
+* **Agent:** add repository development instructions ([](https://github.com/omnixys/grpc-ts/commit/30d0c41c96976ba4eab8532faea102f8a7f1c6b7))
+
+### Context
+
+* **Context:** update dependency ([](https://github.com/omnixys/grpc-ts/commit/feefa60179781e268ecc9521b346916bc84de4a8))
+
 ## [1.1.0](https://github.com/omnixys/grpc-ts/compare/v1.0.5...v1.1.0) (2026-08-01)
 
 ### Deps
