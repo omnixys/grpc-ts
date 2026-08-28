@@ -3,6 +3,12 @@
 All notable changes in this project will be documented in this file.
 
 
+## [1.1.2](https://github.com/omnixys/grpc-ts/compare/v1.1.1...v1.1.2) (2026-08-28)
+
+### Deps
+
+* **Deps:** update contracts-ts ([](https://github.com/omnixys/grpc-ts/commit/edcc2d6205dd908a3483c38a95ba1c6ce5bf70fd))
+
 ## [1.1.1](https://github.com/omnixys/grpc-ts/compare/v1.1.0...v1.1.1) (2026-08-24)
 
 ### Agent
