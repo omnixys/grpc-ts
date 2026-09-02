@@ -1,6 +1,6 @@
 {
   "name": "@omnixys/grpc-ts",
-  "version": "1.1.2",
+  "version": "2.0.0",
   "type": "module",
   "private": false,
   "packageManager": "pnpm@11.24.0",

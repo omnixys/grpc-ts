@@ -3,6 +3,26 @@
 All notable changes in this project will be documented in this file.
 
 
+## [2.0.0](https://github.com/omnixys/grpc-ts/compare/v1.1.2...v2.0.0) (2026-09-02)
+
+### Ci
+
+* **Ci:** add missing labeler and dependabot config to match contracts ([](https://github.com/omnixys/grpc-ts/commit/18330e30f74f18b5fd12b8b23b6767dc1bb564b6))
+* **Ci:** add PR build check workflow for main ([](https://github.com/omnixys/grpc-ts/commit/b197bf01462aeeaefbcfe0a71d148cb89a6e9eab))
+* **Ci:** add npm registry auth before install in release workflow ([](https://github.com/omnixys/grpc-ts/commit/7173f14d9dfc62981bb2d6a972078c9b02236e1a))
+
+### Deps
+
+* **Deps:** update omnixys deps ([](https://github.com/omnixys/grpc-ts/commit/b2259d58e41b711896f38441a1ab6a4818580ec3))
+
+### Other
+
+* **Other:** Merge pull request #1 from omnixys/migration/uuid-v7 ([](https://github.com/omnixys/grpc-ts/commit/f2b73eeaafc2a9b491bb3e8430b81a30cacdcd72)), closes [#1](https://github.com/omnixys/grpc-ts/issues/1)
+
+### Runtime
+
+* **Runtime:** require node 26.8.1 and pnpm 11.24.0 ([](https://github.com/omnixys/grpc-ts/commit/b3b762dc4c078bd0163915fac100464e501d498e))
+
 ## [1.1.2](https://github.com/omnixys/grpc-ts/compare/v1.1.1...v1.1.2) (2026-08-28)
 
 ### Deps
