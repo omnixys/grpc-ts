@@ -9,7 +9,7 @@
 
 - Kind: Shared Package
 - Package: `@omnixys/grpc-ts` (version: 1.1.0)
-- Runtime: Node >=20 (pnpm >=10.33.0)
+- Runtime: Node >=26.8.1 (pnpm >=11.24.0)
 - Description: Omnixys gRPC helpers for TypeScript.
 - Architecture: src/ gRPC helpers + src/proto (copied to dist in postbuild)
 - Database: n/a; Migrations: n/a
