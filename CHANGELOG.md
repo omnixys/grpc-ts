@@ -3,6 +3,12 @@
 All notable changes in this project will be documented in this file.
 
 
+## [2.1.0](https://github.com/omnixys/grpc-ts/compare/v2.0.0...v2.1.0) (2026-09-04)
+
+### Log
+
+* **Log:** add logger ([](https://github.com/omnixys/grpc-ts/commit/5e0f5750160ea77ac6a1de2269077d32c2e4ea44))
+
 ## [2.0.0](https://github.com/omnixys/grpc-ts/compare/v1.1.2...v2.0.0) (2026-09-02)
 
 ### Ci
