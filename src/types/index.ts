@@ -2,6 +2,9 @@ export type {
   UserProjection,
   GetUsersByIdsRequest,
   GetUsersByIdsResponse,
+  SearchUsersRequest,
+  SearchUsersResponse,
+  UserSearchResult,
   UserServiceClient,
 } from './user.types.js';
 export {

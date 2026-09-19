@@ -7,6 +7,23 @@ option java_multiple_files = true;
 
 service UserService {
   rpc GetUsersByIds (GetUsersByIdsRequest) returns (GetUsersByIdsResponse);
+  rpc SearchUsers (SearchUsersRequest) returns (SearchUsersResponse);
+}
+
+message SearchUsersRequest {
+  string query = 1;
+  uint32 limit = 2;
+}
+
+message SearchUsersResponse {
+  repeated UserSearchResult users = 1;
+}
+
+message UserSearchResult {
+  string id = 1;
+  string username = 2;
+  optional string display_name = 3;
+  optional string email = 4;
 }
 
 message GetUsersByIdsRequest {
