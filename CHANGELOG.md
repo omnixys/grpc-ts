@@ -3,6 +3,16 @@
 All notable changes in this project will be documented in this file.
 
 
+## [2.2.0](https://github.com/omnixys/grpc-ts/compare/v2.1.0...v2.2.0) (2026-09-19)
+
+### Deps
+
+* **Deps:** update omnixys contracts-ts package ([](https://github.com/omnixys/grpc-ts/commit/62cfaa6ca3f165f899ad6d5c4b674952f6d3203f))
+
+### Grpc
+
+* **Grpc:** expose user search contract ([](https://github.com/omnixys/grpc-ts/commit/174e4f22ea86a54f01731042a7f231893dd4482b))
+
 ## [2.1.0](https://github.com/omnixys/grpc-ts/compare/v2.0.0...v2.1.0) (2026-09-04)
 
 ### Log
